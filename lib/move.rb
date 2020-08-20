@@ -11,6 +11,4 @@ def input_to_index(input)
   return input_i
 end
 
-def method
 
-end
